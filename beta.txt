@@ -48,3 +48,25 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 20:22
+
+
+
+Ormeño Diego
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::91c4:bac:51ce:c449%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.138.0.24
+   Máscara de subred . . . . . . . . . . . . : 255.235.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::2cb1:19e0:690d:53e0%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.128.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.215.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+20:26
