@@ -1,0 +1,26 @@
+Bazan Vaquera, Nicolas J.A
+a)El master quedó con todos los cambios debido a los merges.
+b)Si, desde la pagina, pude visualizar todos los cambios, y tambien desde la consola,
+al cambiar de rama, veo los cambios.
+c)Para hacer el merge: 
+git merge origin/Sultana
+git add .
+git commit -m "texto"
+git push -u origin main
+
+Franco Sultana
+d) La rama creada por Beta y la rama principal quedan iguales. La rama creada por Gamma,
+no contiene el archivo beta.txt
+e) No tuvimos mayor complicacion, pero tuvimos que entender como funciona el Checkout.
+f) 
+git clone --branch Bazan https://github.com/NicoBazan21/TP_SO_i3_Equipo_112.git
+despues de modificado el archivo
+git add beta.txt
+git push -u origin Bazan
+
+Ormeño Diego
+g)
+git clone --branch Bazan https://github.com/NicoBazan21/TP_SO_i3_Equipo_112.git
+despues de modificado el archivo
+git add beta.txt
+git push -u origin Bazan
